@@ -10,6 +10,6 @@ Integrantes:
 
 •	Marquez Valdez Luis.
 
-•	Alejandro (anotate).
+•	Sánchez Campo Alejandro.
 
 
