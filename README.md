@@ -8,7 +8,7 @@ Integrantes:
   + Gaytán Nava Aarón Emmanuel.
   +	Reyes Farfán Andrea. 
   + Marquez Valdez Luis.
-  + Alejandro (anotate).
+  + Sánchez Campo Alejandro.
 
 
 Requerimentos del sistema
